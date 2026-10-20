@@ -1,0 +1,10 @@
+{
+  "name": "node-cicd",
+  "version": "1.0.0",
+  "description": "Simple Node.js CI example",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test test.js"
+  }
+}
